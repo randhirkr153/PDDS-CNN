@@ -1,0 +1,6 @@
+-keep class org.tensorflow.lite.** { *; }
+-keep class com.google.android.gms.tflite.** { *; }
+-keep class org.tensorflow.lite.gpu.** { *; }
+-dontwarn org.tensorflow.lite.**
+-dontwarn com.google.android.gms.tflite.**
+-keepattributes Signature,Exceptions,*Annotation*

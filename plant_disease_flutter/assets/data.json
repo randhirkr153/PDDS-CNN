@@ -1,0 +1,194 @@
+{
+  "plant_disease": [
+    {
+      "name": "apple apple scab",
+      "symptoms": "Olive-green to dark brown velvety spots on leaves. Leaves may curl, become distorted and fall prematurely. Fruit develops dark scabby lesions.",
+      "management": "Apply fungicides such as captan or myclobutanil during spring. Remove fallen leaves to reduce overwintering spores. Plant resistant apple varieties."
+    },
+    {
+      "name": "apple black rot",
+      "symptoms": "Brown circular lesions with concentric rings on fruit. Leaves develop purple-bordered brown spots. Cankers appear on branches.",
+      "management": "Prune and destroy infected branches and mummified fruit. Apply fungicides like captan or thiophanate-methyl. Maintain good tree hygiene."
+    },
+    {
+      "name": "apple cedar apple rust",
+      "symptoms": "Bright orange-yellow spots on upper leaf surfaces. Small tubes with fringed edges appear on leaf undersides. Fruit may develop similar spots.",
+      "management": "Remove nearby cedar and juniper trees if possible. Apply fungicides containing myclobutanil in spring. Plant resistant apple varieties."
+    },
+    {
+      "name": "apple healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue regular care including proper watering, fertilization, and monitoring for pests."
+    },
+    {
+      "name": "blueberry healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Maintain acidic soil pH (4.5-5.5), proper mulching, and regular watering."
+    },
+    {
+      "name": "cherry including sour powdery mildew",
+      "symptoms": "White powdery fungal growth on leaves, shoots, and sometimes fruit. Leaves may curl and become distorted. Stunted new growth.",
+      "management": "Apply sulfur-based or potassium bicarbonate fungicides. Improve air circulation by pruning. Avoid overhead watering."
+    },
+    {
+      "name": "cherry including sour healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper pruning, watering, and fertilization practices."
+    },
+    {
+      "name": "corn maize cercospora leaf spot gray leaf spot",
+      "symptoms": "Rectangular gray to tan lesions running parallel to leaf veins. Lesions may merge causing large areas of dead leaf tissue.",
+      "management": "Rotate crops to reduce inoculum. Plant resistant hybrids. Apply foliar fungicides if needed during tasseling. Tillage to bury crop residue."
+    },
+    {
+      "name": "corn maize common rust",
+      "symptoms": "Small reddish-brown to cinnamon-brown pustules on both leaf surfaces. Pustules may appear on any above-ground plant part.",
+      "management": "Plant resistant hybrids. Apply foliar fungicides such as azoxystrobin if infection occurs early. Most hybrids have adequate resistance."
+    },
+    {
+      "name": "corn maize northern leaf blight",
+      "symptoms": "Long elliptical grayish-green to tan lesions (1-6 inches) on leaves. Lesions may start near lower leaves and move upward.",
+      "management": "Plant resistant hybrids. Rotate crops and use tillage to bury residue. Apply fungicides at early tassel if needed."
+    },
+    {
+      "name": "corn maize healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper fertilization, irrigation, and pest monitoring."
+    },
+    {
+      "name": "grape black rot",
+      "symptoms": "Circular reddish-brown leaf spots. Fruit develops brown shriveled 'mummies'. Dark pycnidia visible on infected fruit or leaves.",
+      "management": "Remove mummified fruit and infected plant parts. Apply fungicides (captan, myclobutanil) before bloom. Maintain good vine canopy management."
+    },
+    {
+      "name": "grape esca black measles",
+      "symptoms": "Interveinal striping and discoloration on leaves. Dark streaking of wood. Fruit may show purple-brown spots. Sudden vine collapse in severe cases.",
+      "management": "No chemical cure available. Prune out infected wood. Some trunk renewal strategies may help. Avoid large pruning wounds."
+    },
+    {
+      "name": "grape leaf blight isariopsis leaf spot",
+      "symptoms": "Dark brown spots with yellow halos on leaves. Spots may merge leading to leaf drying and defoliation.",
+      "management": "Apply fungicides such as mancozeb or copper-based products. Improve air circulation. Remove and destroy infected leaves."
+    },
+    {
+      "name": "grape healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper vine training, pruning, and disease monitoring."
+    },
+    {
+      "name": "orange haunglongbing citrus greening",
+      "symptoms": "Blotchy mottling and yellowing of leaves. Lopsided, small, and bitter fruit with aborted seeds. Twig dieback.",
+      "management": "No cure exists. Remove infected trees to prevent spread. Control Asian citrus psyllid vector with insecticides. Plant disease-free nursery stock."
+    },
+    {
+      "name": "peach bacterial spot",
+      "symptoms": "Small dark water-soaked spots on leaves that may fall out creating a 'shot-hole' appearance. Fruit develops sunken brown lesions.",
+      "management": "Apply copper-based bactericides during dormancy. Plant resistant varieties. Avoid overhead irrigation."
+    },
+    {
+      "name": "peach healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper pruning, fertilization, and pest management."
+    },
+    {
+      "name": "pepper bell bacterial spot",
+      "symptoms": "Small dark raised spots on leaves and fruit. Leaves may turn yellow and drop. Fruit spots are raised and scab-like.",
+      "management": "Use certified disease-free seeds and transplants. Apply copper-based sprays. Rotate crops and avoid overhead irrigation."
+    },
+    {
+      "name": "pepper bell healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper watering, fertilization, and pest monitoring."
+    },
+    {
+      "name": "potato early blight",
+      "symptoms": "Dark brown to black concentric ring spots (target-like) on older lower leaves. Lesions may cause defoliation. Tubers may develop dark sunken spots.",
+      "management": "Apply fungicides like chlorothalonil or mancozeb. Rotate crops. Remove volunteer potato plants. Maintain proper nutrition."
+    },
+    {
+      "name": "potato late blight",
+      "symptoms": "Dark water-soaked lesions on leaves and stems, often starting at leaf tips. White fuzzy mold may appear on undersides. Rapid plant death in wet conditions.",
+      "management": "Apply fungicides preventatively (chlorothalonil, mancozeb). Destroy infected plants immediately. Avoid overhead irrigation. Plant resistant varieties."
+    },
+    {
+      "name": "potato healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper hilling, watering, and pest monitoring."
+    },
+    {
+      "name": "raspberry healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper cane pruning, mulching, and pest monitoring."
+    },
+    {
+      "name": "soybean healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper crop rotation, fertilization, and weed management."
+    },
+    {
+      "name": "squash powdery mildew",
+      "symptoms": "White powdery spots on upper leaf surfaces that spread to cover entire leaves. Leaves may yellow and die. Reduced fruit quality.",
+      "management": "Apply fungicides like sulfur or potassium bicarbonate. Plant resistant varieties. Space plants for good air circulation."
+    },
+    {
+      "name": "strawberry leaf scorch",
+      "symptoms": "Irregular dark purple blotches on leaves that may merge. Leaf margins appear scorched. Severely affected leaves dry up.",
+      "management": "Remove infected leaves. Apply fungicides when new growth begins. Renovate beds after harvest. Plant resistant varieties."
+    },
+    {
+      "name": "strawberry healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper mulching, watering, and runner management."
+    },
+    {
+      "name": "tomato bacterial spot",
+      "symptoms": "Small dark water-soaked spots on leaves, stems, and fruit. Spots may have yellow halos. Severe infections cause defoliation.",
+      "management": "Use disease-free seeds and transplants. Apply copper-based bactericides. Rotate crops. Avoid working with wet plants."
+    },
+    {
+      "name": "tomato early blight",
+      "symptoms": "Dark concentric ring spots (target pattern) on lower older leaves. Leaves may yellow and drop. Dark leathery spots on fruit.",
+      "management": "Apply fungicides (chlorothalonil, mancozeb). Remove lower infected leaves. Stake plants for air circulation. Mulch to prevent soil splash."
+    },
+    {
+      "name": "tomato late blight",
+      "symptoms": "Large dark water-soaked lesions on leaves and stems. White mold may form on leaf undersides. Rapid plant death in cool, wet weather.",
+      "management": "Apply protective fungicides. Destroy infected plants immediately. Avoid overhead watering. Plant resistant varieties."
+    },
+    {
+      "name": "tomato leaf mold",
+      "symptoms": "Pale green to yellowish spots on upper leaf surfaces. Olive-green to grayish-purple fuzzy mold on leaf undersides.",
+      "management": "Improve greenhouse ventilation. Reduce humidity. Apply fungicides if needed. Plant resistant varieties. Remove infected leaves."
+    },
+    {
+      "name": "tomato septoria leaf spot",
+      "symptoms": "Numerous small circular spots with dark borders and gray centers on lower leaves. Tiny dark dots (pycnidia) visible in spots.",
+      "management": "Remove infected lower leaves. Apply fungicides (chlorothalonil, mancozeb). Mulch around plants. Avoid overhead watering."
+    },
+    {
+      "name": "tomato spider mites two spotted spider mite",
+      "symptoms": "Tiny yellow speckles on leaves (stippling). Fine webbing on leaf undersides. Leaves may bronze and dry out. Tiny mites visible with magnification.",
+      "management": "Spray plants with strong jet of water to dislodge mites. Apply miticides or insecticidal soap. Introduce predatory mites. Avoid dusty conditions."
+    },
+    {
+      "name": "tomato target spot",
+      "symptoms": "Brown spots with concentric rings on leaves, stems, and fruit. Spots start small and enlarge. Lower leaves affected first.",
+      "management": "Apply fungicides (chlorothalonil, azoxystrobin). Improve air circulation. Remove infected plant debris. Practice crop rotation."
+    },
+    {
+      "name": "tomato yellow leaf curl virus",
+      "symptoms": "Severe upward curling and yellowing of leaves. Stunted plant growth. Reduced fruit production. Plants may appear bushy.",
+      "management": "Control whitefly vectors with insecticides or reflective mulch. Use virus-resistant tomato varieties. Remove infected plants promptly."
+    },
+    {
+      "name": "tomato mosaic virus",
+      "symptoms": "Light and dark green mottled pattern on leaves. Leaves may be distorted or fern-like. Fruit may show uneven ripening.",
+      "management": "No chemical cure. Use virus-free seeds and transplants. Disinfect tools and hands. Remove infected plants. Avoid tobacco products near plants."
+    },
+    {
+      "name": "tomato healthy",
+      "symptoms": "No disease symptoms detected. The plant appears healthy.",
+      "management": "Continue proper staking, watering, fertilization, and pest monitoring."
+    }
+  ]
+}
