@@ -60,3 +60,6 @@ This project aims to help farmers and users quickly identify plant diseases usin
 
 ## 🚧 Ongoing Development
 We are continuously working on improving this project by adding new features and improving model accuracy.
+
+<img width="661" height="464" alt="image" src="https://github.com/user-attachments/assets/21faf7e2-e53d-4b79-a4f9-e2da46d23d61" />
+
